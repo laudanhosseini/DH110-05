@@ -27,7 +27,8 @@ The features that we have decide to target for points of improvement were identi
 
 ### Description: 
 This task is modelled around trying to get the user to navigate the search bar. This is to see how advanced the search bar can filter out certain settings and to see how quickly one is able to find the audiobook he/she/they is looking for. 
-   **Flow + Features:** The user would start out at the homepage, which displays the audiobooks the user has already purchased/downloaded. To get to the  search bar, the user would have to click either the little **book button** in the top left corner OR the **big plus sign** at the bottom of the page. This takes us to the second wireframe, which is of the audiobook stores the user can choose from. The stores range from the main search engine to free audiobooks to radio shows. Once the user chooses which store is desired, this takes us to the last wireframe, which is the actual search engine. Here, the user can filter out the searches based on a variety of filters, such as languages, ratings, or genres. If the user wants a more advanced search, they click the **"More"** button, which allows them to search solely by author or title. 
+  
+  **Flow + Features:** The user would start out at the homepage, which displays the audiobooks the user has already purchased/downloaded. To get to the  search bar, the user would have to click either the little **book button** in the top left corner OR the **big plus sign** at the bottom of the page. This takes us to the second wireframe, which is of the audiobook stores the user can choose from. The stores range from the main search engine to free audiobooks to radio shows. Once the user chooses which store is desired, this takes us to the last wireframe, which is the actual search engine. Here, the user can filter out the searches based on a variety of filters, such as languages, ratings, or genres. If the user wants a more advanced search, they click the **"More"** button, which allows them to search solely by author or title. 
 
 ### Prototype for Task 1 
    **(Did not want to be VideoTaped, so took notes of the users' actions instead)**
@@ -41,11 +42,12 @@ The user first clicked on the little book button to get to the search engine ins
 
 ### Description: 
 This task is modelled around seeing the organization of content on this application and if there is a more structured, interactive way that the users' content can be organized. 
-    **Flow + Features:** The user begins again at the homepage, which already displays the downloaded/purchased content. From here, the user can navigate the organization by looking at their content based on **Title, Author, or Recent.** If the user wants to see their **Favorites**, the user has to go to the audiobook store section to find the **heart icon**, symbolizing favorites. 
+    
+   **Flow + Features:** The user begins again at the homepage, which already displays the downloaded/purchased content. From here, the user can navigate the organization by looking at their content based on **Title, Author, or Recent.** If the user wants to see their **Favorites**, the user has to go to the audiobook store section to find the **heart icon**, symbolizing favorites. 
 
 ### Prototype for Task 2: 
  **(Did not want to be VideoTaped, so took notes of the users' actions instead)**
-1[Prototype Task 2_Org of Content](https://github.com/laudanhosseini/DH110-05/blob/ea80527d81c98305090cee93c3229fbac505bd25/Prototype%20Test%202_%20Org%20of%20Content%20Copy.jpg) 
+![Prototype Task 2_Org of Content](https://github.com/laudanhosseini/DH110-05/blob/ea80527d81c98305090cee93c3229fbac505bd25/Prototype%20Test%202_%20Org%20of%20Content%20Copy.jpg) 
 
 ### Confusions: 
 The user seemed pretty knowledgable about how to navigate the organization of content located on the homepage, but when it came to finding the favorites section, the user was very confused. I had to give her a hint about going to the search engine to find the favorites, and she noted that this was a very odd organization; she would have preferred if there was another tab on the homepage labelled **Favorites** instead. That was the main point of confusion with this task. However, the user also noted that she would have liked a more distinct homepage with a tab that says **My Books**, and from clicking this, there can be different tabs for organization, such as title, author, recents, favorites, genres, purpose, price, etc. She also noted that it would be a cool interactive feature to allow the user to create his/her/their own tabs with unique labels. 
