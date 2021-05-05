@@ -28,11 +28,18 @@ The features that we have decide to target for points of improvement were identi
 ### Description: 
 
 ### Prototype for Task 1: 
-![Prototype Task 1_Navigating the Search Bar](
+![Prototype Task 1_Navigating the Search Bar](https://github.com/laudanhosseini/DH110-05/blob/c9670330c3f537f1b18265264e8308307a63ca91/Prototype%20Test%201_%20Navigating%20the%20Search%20Bar%20Copy.jpg)
 
 ### Confusions: 
 
 ### Task 2: Organization of Content
 ![Task 2_Org of Content](https://github.com/laudanhosseini/DH110-05/blob/566bbf7495c4e8b1976b6bf1c48fa2eb9b1370b2/Task%202_%20Org%20of%20Content.jpg)
+
+### Description: 
+
+### Prototype for Task 2: 
+1[Prototype Task 2_Org of Content](
+
+### Confusions: 
 
 ## Reflection 
