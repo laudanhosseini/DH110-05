@@ -13,14 +13,17 @@ The features that we have decide to target for points of improvement were identi
 ### Wireframe 1: Homepage right when you click to enter the application
 ![WF1](https://github.com/laudanhosseini/DH110-05/blob/176cfe95c2d6337cc044225677eb750ca3bc42eb/WF1.jpg) 
 
+
 ### Wireframe 2: Search page when you begin to look for different Audiobooks (gives you multiple bookstores) 
 ![WF2](https://github.com/laudanhosseini/DH110-05/blob/e6d3ffbe646b37364e228fb8f64c062fc57cbff5/WF2.jpg) 
+
 
 ### Wireframe 3: Search bar that further organizes which type of audiobook you are looking for 
 ![WF3](https://github.com/laudanhosseini/DH110-05/blob/725ad932d0c5f7634318ec4594968d70151b657c/WF3.jpg)
 
 ## Wireflows 
-### Task 1:
+### Task 1: Navigating the Search Bar 
+
 
 ### Task 2: 
 
