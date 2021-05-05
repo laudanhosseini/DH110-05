@@ -23,7 +23,7 @@ The features that we have decide to target for points of improvement were identi
 
 ## Wireflows 
 ### Task 1: Navigating the Search Bar 
-
+![Task 1_Navigating the Seach Bar.jpg](https://github.com/laudanhosseini/DH110-05/blob/f6225df544f14d5494678695b599ff7ad613fd7e/Task%201_%20Navigating%20the%20Search%20Bar.jpg)
 
 ### Task 2: 
 
