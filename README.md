@@ -10,6 +10,7 @@ The personas that will be our target audience for this testing consist of senior
 The features that we have decide to target for points of improvement were identified through usability testing of the application, contextual inquiry on performing tasks within the application, and initial reactions that I personally had when working with the application. The two features are (1) developing a more prominent, organized, and advanced search bar and (2) creating a more structured and interactive organization section for the user's downloaded readings.  
 
 ## Wireframes
+![dh 110 #5.pages]
 
 ## Wireflows 
 ### Task 1:
